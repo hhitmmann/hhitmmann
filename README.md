@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/rafayalikhangg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafayalikhangg" height="30" width="40" /></a>
 <a href="https://fb.com/rafay.ali.khan.512755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafay.ali.khan.512755" height="30" width="40" /></a>
 <a href="https://instagram.com/hhitmmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hhitmmann" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@rafayali3643" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rafayali3643" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@rafayali3643" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rafayali3643" height="30" width="40" /></a>
 <a href="https://discord.gg/hitman0232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hitman0232" height="30" width="40" /></a>
 </p>
 
