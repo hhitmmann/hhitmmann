@@ -71,14 +71,14 @@
   </a>
 </p>
 
-## 📈 Contribution Activity
+## 📈 Contribution Activity Graph
 
 <p align="center">
-  <b>📊 GitHub Contribution Activity</b>
-</p>
-
-<p align="center">
-  My contribution activity is available directly on my GitHub profile.
+  <img
+    src="https://raw.githubusercontent.com/hhitmmann/hhitmmann/output/github-activity.svg"
+    alt="GitHub Contribution Activity Graph"
+    width="900"
+  />
 </p>
 
 
