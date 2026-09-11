@@ -13,74 +13,118 @@
   <img width="640" height="360" alt="THE_SHADOW" src="https://github.com/user-attachments/assets/957ac582-d505-4bf4-aece-f26fa8d33e07" />
 </div>
 
-</div>
+---
 
-- 🔭 I'm currently working on [Air Quality Monitoring System (ESP32 + Flutter + Firebase)](https://github.com/hhitmmann/Air-Quality-Monitoring-System-AQMS-Project)
+## 👨‍💻 About Me
 
-- 🌱 I'm currently learning **Modern C++ (C++17/20), Data Structures & Algorithms, and the basics of ML for sensor data**
+- 🔭 Currently working on **[Air Quality Monitoring System (ESP32 + Flutter + Firebase)](https://github.com/hhitmmann/Air-Quality-Monitoring-System-AQMS-Project)**
+- 🌱 Currently learning **Modern C++ (C++17/20), Data Structures & Algorithms, and the basics of ML for sensor data**
+- 👯 Looking to collaborate on **IoT & embedded systems projects**, especially environmental monitoring, industrial automation, and predictive analytics
+- 🤝 Looking for help with **applying machine learning to real-time sensor data** for AQMS air-quality prediction
+- 👨‍💻 All projects: **https://github.com/hhitmmann**
+- 💬 Ask me about **C++, ESP32/Arduino, Flutter & Dart, Firebase, and IoT system design**
+- 📫 Email: **anythingabout111@gmail.com**
+- 📄 LinkedIn: **[rafayalikhangg](https://www.linkedin.com/in/rafayalikhangg)**
+- ⚡ Fun fact: **🎮 Big into skill-heavy games — Half-Life, God of War (I to Ragnarök), Ghostrunner 1 & 2, Dark Souls/Elden Ring, Sekiro, Black Myth: Wukong, NFS Heat, Batman Arkham, and Tekken 8.**
 
-- 👯 I'm looking to collaborate on **IoT & embedded systems projects, especially environmental monitoring, industrial automation, or predictive analytics**
+---
 
-- 🤝 I'm looking for help with **Applying machine learning to real-time sensor data, my next goal for AQMS's air-quality prediction feature**
+## 📌 Featured Project
 
-- 👨‍💻 All of my projects are available at [https://github.com/hhitmmann](https://github.com/hhitmmann)
-
-- 💬 Ask me about **C++, embedded systems (ESP32/Arduino), Flutter & Dart, Firebase, or IoT system design**
-
-- 📫 How to reach me **anythingabout111@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/rafayalikhangg](https://www.linkedin.com/in/rafayalikhangg)
-
-- ⚡ Fun fact **🎮 Big into skill-heavy games — Half-Life, God of War (I to Ragnarök), Ghostrunner 1 & 2, Dark Souls/Elden Ring / Sekiro, Black Myth Wukong, NFS Heat, Batman Arkham, and Tekken 8.**
-
-<br clear="both">
-
-## 📌 Featured Projects
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/hhitmmann/Air-Quality-Monitoring-System-AQMS-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hhitmmann&repo=Air-Quality-Monitoring-System-AQMS-Project&theme=tokyonight" alt="AQMS repo card"/>
+    <img src="https://img.shields.io/badge/🚀%20Air%20Quality%20Monitoring%20System-AQMS-5b21d1?style=for-the-badge&labelColor=150a30" alt="Air Quality Monitoring System" />
   </a>
 </p>
 
-<sub>To feature more repos, copy the line above and change `repo=` to another repo name. GitHub also lets you pin repos natively (no code needed) from your profile page → **Customize your pins**.</sub>
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hhitmmann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhitmmann&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<p align="center">
+  <b>ESP32 + Flutter + Firebase</b><br>
+  Real-time environmental monitoring with a focus on air-quality data and future predictive analytics.
 </p>
+
+> **Why this section is different:** the old GitHub Readme Stats pin card depended on a third-party dynamic endpoint. This version uses a normal GitHub repository link, so the project link does not disappear when that service is unavailable.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <a href="https://github.com/hhitmmann">
+    <img src="https://img.shields.io/github/followers/hhitmmann?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/hhitmmann?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20All-7AA2F7?style=for-the-badge&logo=github" alt="View repositories" />
+  </a>
+  <a href="https://github.com/hhitmmann?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-View%20Starred-ff4fd8?style=for-the-badge&logo=github" alt="View starred repositories" />
+  </a>
+</p>
+
+### 🧰 Main Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,dart,flutter,firebase,arduino,android,matlab,unreal" alt="C++, Python, Dart, Flutter, Firebase, Arduino, Android, MATLAB and Unreal Engine" />
+</p>
+
+<p align="center">
+  <b>C++</b> • <b>Embedded Systems</b> • <b>ESP32</b> • <b>Arduino</b> • <b>Flutter</b> • <b>Dart</b> • <b>Firebase</b> • <b>Python</b> • <b>IoT</b>
+</p>
+
+> The previous live Stats / Top Languages cards were removed because the public `github-readme-stats.vercel.app` service can become unavailable or rate-limited. Keeping the profile dependency-free prevents another broken-image block.
+
+---
 
 ## 🔥 Contribution Streak
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=hhitmmann&theme=dark&hide_border=true" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hhitmmann&theme=dark&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-## 📈 Contribution Activity Graph
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hhitmmann&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+<p align="center">
+  <a href="https://github.com/hhitmmann">
+    <img src="https://img.shields.io/badge/View%20GitHub%20Profile-150a30?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Profile" />
+  </a>
 </p>
 
-## 🏆 Trophies
+---
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=hhitmmann&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies"/>
+## 📈 Contribution Activity
+
+Instead of relying on another live image service, GitHub's own profile contribution graph remains the source of truth:
+
+<p align="center">
+  <a href="https://github.com/hhitmmann">
+    <img src="https://img.shields.io/badge/📈%20Open%20Contribution%20Graph-5b21d1?style=for-the-badge" alt="Open GitHub contribution graph" />
+  </a>
 </p>
 
-<sub>Note: this service has warned it may go down due to hosting costs — if it stops loading one day, that's why, not something broken on your end.</sub>
+---
+
+## 🏆 GitHub Trophies
+
+The old trophy image endpoint has been removed from this README because that service has experienced API/403 failures.
+
+<p align="center">
+  <a href="https://github.com/hhitmmann">
+    <img src="https://img.shields.io/badge/🏆%20View%20GitHub%20Achievements-ff4fd8?style=for-the-badge" alt="View GitHub achievements" />
+  </a>
+</p>
+
+---
 
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhitmmann/hhitmmann/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hhitmmann/hhitmmann/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/hhitmmann/hhitmmann/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhitmmann/hhitmmann/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hhitmmann/hhitmmann/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hhitmmann/hhitmmann/output/github-snake.svg" />
+  </picture>
+</p>
 
-<sub>This one needs a one-time setup — see `snake.yml` (provided separately). Until that workflow runs once, this image will appear broken.</sub>
+> **One-time setup:** keep the supplied `snake.yml` in `.github/workflows/snake.yml`, push it to your profile repository, then run **Actions → generate profile snake animation → Run workflow** once. The workflow publishes the generated SVGs to the `output` branch.
+
+---
 
 ## 🎮 Games Played
 
@@ -92,29 +136,65 @@
 [![Black Myth Wukong](https://img.shields.io/badge/Black%20Myth%20Wukong-B8860B?style=for-the-badge&logoColor=white)](https://store.steampowered.com/app/2358720/Black_Myth_Wukong/)
 [![Black Mesa](https://img.shields.io/badge/Black%20Mesa-FF6600?style=for-the-badge&logoColor=white)](https://store.steampowered.com/app/362890/Black_Mesa/)
 
-## 🌐 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/rafayalikhangg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafayalikhangg" height="30" width="40" /></a>
-<a href="https://fb.com/rafay.ali.khan.512755" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafay.ali.khan.512755" height="30" width="40" /></a>
-<a href="https://instagram.com/hhitmmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hhitmmann" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@rafayali3643" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rafayali3643" height="30" width="40" /></a>
-<a href="https://discord.gg/hitman0232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hitman0232" height="30" width="40" /></a>
-<a href="https://steamcommunity.com/profiles/76561199015683613/" target="blank"><img align="center" src="https://cdn.simpleicons.org/steam/000000/ffffff" alt="steam" height="30" width="40" /></a>
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rafayalikhangg">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/rafay.ali.khan.512755">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/hhitmmann">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@rafayali3643">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/hitman0232">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561199015683613/">
+    <img src="https://cdn.simpleicons.org/steam/000000/ffffff" alt="Steam" height="30" width="40" />
+  </a>
 </p>
 
-## 🛠️ Languages and Tools:
-<p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <a href="https://developer.android.com">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
+  </a>
+  <a href="https://www.arduino.cc/">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
+  </a>
+  <a href="https://isocpp.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+  <a href="https://dart.dev">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
+  </a>
+  <a href="https://flutter.dev">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
+  </a>
+  <a href="https://www.mathworks.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://www.unrealengine.com/">
+    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hhitmmann&style=flat-square&color=7AA2F7&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=hhitmmann&style=flat-square&color=7AA2F7&label=Profile+Views" alt="Profile Views" />
 </p>
