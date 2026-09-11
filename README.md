@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Rafay%20Ali%20Khan&fontSize=45&fontColor=ffffff&fontFamily=Rampart%20One&animation=fadeIn&fontAlignY=35&desc=C%2B%2B%20Developer%20%7C%20Electronics%20Engineer%20%7C%20IoT%20Builder&descAlignY=55&descSize=18" />
-  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Rafay%20Ali%20Khan&fontSize=45&fontColor=ffffff&fontFamily=Rampart%20One&animation=fadeIn&fontAlignY=35&desc=C%2B%2B%20Developer%20%7C%20Electronics%20Engineer%20%7C%20IoT%20Builder&descAlignY=55&descSize=18" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:150a30,100:5b21d1&height=180&section=header&text=Rafay%20Ali%20Khan&fontSize=45&fontColor=ff4fd8&fontFamily=Rampart%20One&animation=twinkling&fontAlignY=35&desc=C%2B%2B%20Developer%20%7C%20Electronics%20Engineer%20%7C%20IoT%20Builder&descAlignY=55&descSize=18" />
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:150a30,100:5b21d1&height=180&section=header&text=Rafay%20Ali%20Khan&fontSize=45&fontColor=ff4fd8&fontFamily=Rampart%20One&animation=twinkling&fontAlignY=35&desc=C%2B%2B%20Developer%20%7C%20Electronics%20Engineer%20%7C%20IoT%20Builder&descAlignY=55&descSize=18" />
 </picture>
 
 <p align="center">
@@ -11,6 +11,8 @@
 
 <div align="center">
   <img width="640" height="360" alt="THE_SHADOW" src="https://github.com/user-attachments/assets/957ac582-d505-4bf4-aece-f26fa8d33e07" />
+</div>
+
 </div>
 
 - 🔭 I'm currently working on [Air Quality Monitoring System (ESP32 + Flutter + Firebase)](https://github.com/hhitmmann/Air-Quality-Monitoring-System-AQMS-Project)
@@ -80,7 +82,7 @@
 
 <sub>This one needs a one-time setup — see `snake.yml` (provided separately). Until that workflow runs once, this image will appear broken.</sub>
 
-## 🎮 Currently Playing
+## 🎮 Games Played
 
 ![Elden Ring](https://img.shields.io/badge/Elden%20Ring-000000?style=for-the-badge&logoColor=white)
 ![Sekiro](https://img.shields.io/badge/Sekiro-2F2F2F?style=for-the-badge&logoColor=white)
