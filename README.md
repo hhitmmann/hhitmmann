@@ -40,7 +40,6 @@
 
 ## 📊 GitHub Overview
 
-<!-- This section replicates the image you provided -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hhitmmann&theme=github_dark" alt="Profile Details" />
 </div>
