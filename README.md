@@ -84,12 +84,13 @@
 
 ## 🎮 Games Played
 
-![Elden Ring](https://img.shields.io/badge/Elden%20Ring-000000?style=for-the-badge&logoColor=white)
-![Sekiro](https://img.shields.io/badge/Sekiro-2F2F2F?style=for-the-badge&logoColor=white)
-![God of War Ragnarök](https://img.shields.io/badge/God%20of%20War%20Ragnar%C3%B6k-8B0000?style=for-the-badge&logoColor=white)
-![Tekken 8](https://img.shields.io/badge/Tekken%208-1E3A8A?style=for-the-badge&logoColor=white)
-![Ghostrunner](https://img.shields.io/badge/Ghostrunner-FF00AA?style=for-the-badge&logoColor=white)
-![Black Myth Wukong](https://img.shields.io/badge/Black%20Myth%20Wukong-B8860B?style=for-the-badge&logoColor=white)
+[![Elden Ring](https://img.shields.io/badge/Elden%20Ring-000000?style=for-the-badge&logoColor=white)](https://store.steampowered.com/app/1245620/ELDEN_RING/)
+[![Sekiro](https://img.shields.io/badge/Sekiro-2F2F2F?style=for-the-badge&logoColor=white)](https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/)
+[![God of War Ragnarök](https://img.shields.io/badge/God%20of%20War%20Ragnar%C3%B6k-8B0000?style=for-the-badge&logoColor=white)](https://store.steampowered.com/app/2322010/God_of_War_Ragnarok/)
+[![Tekken 8](https://img.shields.io/badge/Tekken%208-1E3A8A?style=for-the-badge&logoColor=white)](https://store.steampowered.com/app/1778820/TEKKEN_8/)
+[![Ghostrunner](https://img.shields.io/badge/Ghostrunner-FF00AA?style=for-the-badge&logoColor=white)](https://store.steampowered.com/app/1139900/Ghostrunner/)
+[![Black Myth Wukong](https://img.shields.io/badge/Black%20Myth%20Wukong-B8860B?style=for-the-badge&logoColor=white)](https://store.steampowered.com/app/2358720/Black_Myth_Wukong/)
+[![Black Mesa](https://img.shields.io/badge/Black%20Mesa-FF6600?style=for-the-badge&logoColor=white)](https://store.steampowered.com/app/362890/Black_Mesa/)
 
 ## 🌐 Connect with me:
 <p align="left">
