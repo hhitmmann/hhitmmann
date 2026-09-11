@@ -13,19 +13,17 @@
   <img width="640" height="360" alt="THE_SHADOW" src="https://github.com/user-attachments/assets/957ac582-d505-4bf4-aece-f26fa8d33e07" />
 </div>
 
-
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on **[Air Quality Monitoring System (ESP32 + Flutter + Firebase)](https://github.com/hhitmmann/Air-Quality-Monitoring-System-AQMS-Project)**
 - 🌱 Currently learning **Modern C++ (C++17/20), Data Structures & Algorithms, and the basics of ML for sensor data**
 - 👯 Looking to collaborate on **IoT & embedded systems projects**, especially environmental monitoring, industrial automation, and predictive analytics
 - 🤝 Looking for help with **applying machine learning to real-time sensor data** for AQMS air-quality prediction
-- 👨‍💻 All projects: **https://github.com/hhitmmann**
+- 👨‍💻 All projects: **[GitHub](https://github.com/hhitmmann)**
 - 💬 Ask me about **C++, ESP32/Arduino, Flutter & Dart, Firebase, and IoT system design**
 - 📫 Email: **anythingabout111@gmail.com**
 - 📄 LinkedIn: **[rafayalikhangg](https://www.linkedin.com/in/rafayalikhangg)**
 - ⚡ Fun fact: **🎮 Big into skill-heavy games — Half-Life, God of War (I to Ragnarök), Ghostrunner 1 & 2, Dark Souls/Elden Ring, Sekiro, Black Myth: Wukong, NFS Heat, Batman Arkham, and Tekken 8.**
-
 
 ## 📌 Featured Project
 
@@ -40,9 +38,6 @@
   Real-time environmental monitoring with a focus on air-quality data and future predictive analytics.
 </p>
 
-> **Why this section is different:** the old GitHub Readme Stats pin card depended on a third-party dynamic endpoint. This version uses a normal GitHub repository link, so the project link does not disappear when that service is unavailable.
-
-
 ## 📊 GitHub
 
 <p align="center">
@@ -51,9 +46,6 @@
   </a>
   <a href="https://github.com/hhitmmann?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View%20All-7AA2F7?style=for-the-badge&logo=github" alt="View repositories" />
-  </a>
-  <a href="https://github.com/hhitmmann?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-View%20Starred-ff4fd8?style=for-the-badge&logo=github" alt="View starred repositories" />
   </a>
 </p>
 
@@ -67,9 +59,6 @@
   <b>C++</b> • <b>Embedded Systems</b> • <b>ESP32</b> • <b>Arduino</b> • <b>Flutter</b> • <b>Dart</b> • <b>Firebase</b> • <b>Python</b> • <b>IoT</b>
 </p>
 
-> The previous live Stats / Top Languages cards were removed because the public `github-readme-stats.vercel.app` service can become unavailable or rate-limited. Keeping the profile dependency-free prevents another broken-image block.
-
-
 ## 🔥 Contribution Streak
 
 <p align="center">
@@ -82,41 +71,57 @@
   </a>
 </p>
 
-
 ## 📈 Contribution Activity
 
-Instead of relying on another live image service, GitHub's own profile contribution graph remains the source of truth:
-
 <p align="center">
   <a href="https://github.com/hhitmmann">
-    <img src="https://img.shields.io/badge/📈%20Open%20Contribution%20Graph-5b21d1?style=for-the-badge" alt="Open GitHub contribution graph" />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=hhitmmann&theme=tokyo-night&hide_border=true&area=true"
+      alt="GitHub Contribution Activity Graph"
+      width="900"
+    />
   </a>
 </p>
 
-
-## 🏆 GitHub Trophies
-
-The old trophy image endpoint has been removed from this README because that service has experienced API/403 failures.
-
 <p align="center">
   <a href="https://github.com/hhitmmann">
-    <img src="https://img.shields.io/badge/🏆%20View%20GitHub%20Achievements-ff4fd8?style=for-the-badge" alt="View GitHub achievements" />
+    📈 <b>View my full GitHub contribution graph</b>
   </a>
 </p>
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/hhitmmann">
+    <img
+      src="https://img.shields.io/badge/🏆%20GitHub%20Achievements-ff4fd8?style=for-the-badge&labelColor=150a30"
+      alt="GitHub Achievements"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b>View my achievements directly on my GitHub profile.</b>
+</p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hhitmmann/hhitmmann/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hhitmmann/hhitmmann/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/hhitmmann/hhitmmann/output/github-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/hhitmmann/hhitmmann/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/hhitmmann/hhitmmann/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/hhitmmann/hhitmmann/output/github-snake.svg"
+      alt="GitHub contribution snake animation"
+    />
   </picture>
 </p>
-
-> **One-time setup:** keep the supplied `snake.yml` in `.github/workflows/snake.yml`, push it to your profile repository, then run **Actions → generate profile snake animation → Run workflow** once. The workflow publishes the generated SVGs to the `output` branch.
-
 
 ## 🎮 Games Played
 
@@ -127,7 +132,6 @@ The old trophy image endpoint has been removed from this README because that ser
 [![Ghostrunner](https://img.shields.io/badge/Ghostrunner-FF00AA?style=for-the-badge&logoColor=white)](https://store.steampowered.com/app/1139900/Ghostrunner/)
 [![Black Myth Wukong](https://img.shields.io/badge/Black%20Myth%20Wukong-B8860B?style=for-the-badge&logoColor=white)](https://store.steampowered.com/app/2358720/Black_Myth_Wukong/)
 [![Black Mesa](https://img.shields.io/badge/Black%20Mesa-FF6600?style=for-the-badge&logoColor=white)](https://store.steampowered.com/app/362890/Black_Mesa/)
-
 
 ## 🌐 Connect With Me
 
@@ -151,7 +155,6 @@ The old trophy image endpoint has been removed from this README because that ser
     <img src="https://cdn.simpleicons.org/steam/000000/ffffff" alt="Steam" height="30" width="40" />
   </a>
 </p>
-
 
 ## 🛠️ Languages & Tools
 
