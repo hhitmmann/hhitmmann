@@ -38,7 +38,16 @@
   Real-time environmental monitoring with a focus on air-quality data and future predictive analytics.
 </p>
 
-## 📊 GitHub
+## 📊 GitHub Overview
+
+<!-- This section replicates the image you provided -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hhitmmann&theme=github_dark" alt="Profile Details" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hhitmmann&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hhitmmann&theme=github_dark" alt="Top Languages by Commit" />
+</div>
 
 <p align="center">
   <a href="https://github.com/hhitmmann">
@@ -65,31 +74,16 @@
   <img src="https://streak-stats.demolab.com/?user=hhitmmann&theme=dark&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/hhitmmann">
-    <img src="https://img.shields.io/badge/View%20GitHub%20Profile-150a30?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Profile" />
-  </a>
-</p>
-
 ## 📈 Contribution Activity Graph
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/hhitmmann/hhitmmann/output/github-activity.svg"
-    alt="GitHub Contribution Activity Graph"
-    width="900"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hhitmmann&theme=react-dark&hide_border=true" alt="GitHub Contribution Activity Graph" />
 </p>
-
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  🏆 <b>GitHub Achievements</b>
-</p>
-
-<p align="center">
-  My GitHub achievements are displayed directly on my GitHub profile.
+  <img src="https://github-profile-trophy.vercel.app/?username=hhitmmann&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ## 🐍 Contribution Snake
