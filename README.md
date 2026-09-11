@@ -73,17 +73,6 @@
   <img src="https://streak-stats.demolab.com/?user=hhitmmann&theme=dark&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hhitmmann&theme=react-dark&hide_border=true" alt="GitHub Contribution Activity Graph" />
-</p>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hhitmmann&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
 
 ## 🐍 Contribution Snake
 
