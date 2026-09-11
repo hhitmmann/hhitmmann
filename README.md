@@ -13,7 +13,6 @@
   <img width="640" height="360" alt="THE_SHADOW" src="https://github.com/user-attachments/assets/957ac582-d505-4bf4-aece-f26fa8d33e07" />
 </div>
 
----
 
 ## 👨‍💻 About Me
 
@@ -27,7 +26,6 @@
 - 📄 LinkedIn: **[rafayalikhangg](https://www.linkedin.com/in/rafayalikhangg)**
 - ⚡ Fun fact: **🎮 Big into skill-heavy games — Half-Life, God of War (I to Ragnarök), Ghostrunner 1 & 2, Dark Souls/Elden Ring, Sekiro, Black Myth: Wukong, NFS Heat, Batman Arkham, and Tekken 8.**
 
----
 
 ## 📌 Featured Project
 
@@ -44,7 +42,6 @@
 
 > **Why this section is different:** the old GitHub Readme Stats pin card depended on a third-party dynamic endpoint. This version uses a normal GitHub repository link, so the project link does not disappear when that service is unavailable.
 
----
 
 ## 📊 GitHub
 
@@ -72,7 +69,6 @@
 
 > The previous live Stats / Top Languages cards were removed because the public `github-readme-stats.vercel.app` service can become unavailable or rate-limited. Keeping the profile dependency-free prevents another broken-image block.
 
----
 
 ## 🔥 Contribution Streak
 
@@ -86,7 +82,6 @@
   </a>
 </p>
 
----
 
 ## 📈 Contribution Activity
 
@@ -98,7 +93,6 @@ Instead of relying on another live image service, GitHub's own profile contribut
   </a>
 </p>
 
----
 
 ## 🏆 GitHub Trophies
 
@@ -110,7 +104,6 @@ The old trophy image endpoint has been removed from this README because that ser
   </a>
 </p>
 
----
 
 ## 🐍 Contribution Snake
 
@@ -124,7 +117,6 @@ The old trophy image endpoint has been removed from this README because that ser
 
 > **One-time setup:** keep the supplied `snake.yml` in `.github/workflows/snake.yml`, push it to your profile repository, then run **Actions → generate profile snake animation → Run workflow** once. The workflow publishes the generated SVGs to the `output` branch.
 
----
 
 ## 🎮 Games Played
 
@@ -136,7 +128,6 @@ The old trophy image endpoint has been removed from this README because that ser
 [![Black Myth Wukong](https://img.shields.io/badge/Black%20Myth%20Wukong-B8860B?style=for-the-badge&logoColor=white)](https://store.steampowered.com/app/2358720/Black_Myth_Wukong/)
 [![Black Mesa](https://img.shields.io/badge/Black%20Mesa-FF6600?style=for-the-badge&logoColor=white)](https://store.steampowered.com/app/362890/Black_Mesa/)
 
----
 
 ## 🌐 Connect With Me
 
@@ -161,7 +152,6 @@ The old trophy image endpoint has been removed from this README because that ser
   </a>
 </p>
 
----
 
 ## 🛠️ Languages & Tools
 
