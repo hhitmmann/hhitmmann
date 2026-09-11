@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Rafay%20Ali%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=C%2B%2B%20Developer%20%7C%20Electronics%20Engineer%20%7C%20IoT%20Builder&descAlignY=55&descSize=18" />
-  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Rafay%20Ali%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=C%2B%2B%20Developer%20%7C%20Electronics%20Engineer%20%7C%20IoT%20Builder&descAlignY=55&descSize=18" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Rafay%20Ali%20Khan&fontSize=45&fontColor=ffffff&fontFamily=Rampart%20One&animation=fadeIn&fontAlignY=35&desc=C%2B%2B%20Developer%20%7C%20Electronics%20Engineer%20%7C%20IoT%20Builder&descAlignY=55&descSize=18" />
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Rafay%20Ali%20Khan&fontSize=45&fontColor=ffffff&fontFamily=Rampart%20One&animation=fadeIn&fontAlignY=35&desc=C%2B%2B%20Developer%20%7C%20Electronics%20Engineer%20%7C%20IoT%20Builder&descAlignY=55&descSize=18" />
 </picture>
 
 <p align="center">
@@ -9,13 +9,9 @@
   </a>
 </p>
 
-<div align="right">
-
-https://github.com/user-attachments/assets/d8a0f6c1-1a9b-40c3-a769-cb861f198d11
-
+<div align="center">
+  <img width="640" height="360" alt="THE_SHADOW" src="https://github.com/user-attachments/assets/957ac582-d505-4bf4-aece-f26fa8d33e07" />
 </div>
-
-<sub>GitHub strips `<video>` tags from READMEs, so a plain link to an external .mp4 won't render. Instead, drag your video file directly into this README's editor on GitHub.com — GitHub hosts it and hands you a link like the one above. Paste that link in, on its own line, and GitHub renders it as a playable video automatically.</sub>
 
 - 🔭 I'm currently working on [Air Quality Monitoring System (ESP32 + Flutter + Firebase)](https://github.com/hhitmmann/Air-Quality-Monitoring-System-AQMS-Project)
 
