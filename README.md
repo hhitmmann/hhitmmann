@@ -74,34 +74,22 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/hhitmmann">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=hhitmmann&theme=tokyo-night&hide_border=true&area=true"
-      alt="GitHub Contribution Activity Graph"
-      width="900"
-    />
-  </a>
+  <b>📊 GitHub Contribution Activity</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/hhitmmann">
-    📈 <b>View my full GitHub contribution graph</b>
-  </a>
+  My contribution activity is available directly on my GitHub profile.
 </p>
+
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://github.com/hhitmmann">
-    <img
-      src="https://img.shields.io/badge/🏆%20GitHub%20Achievements-ff4fd8?style=for-the-badge&labelColor=150a30"
-      alt="GitHub Achievements"
-    />
-  </a>
+  🏆 <b>GitHub Achievements</b>
 </p>
 
 <p align="center">
-  <b>View my achievements directly on my GitHub profile.</b>
+  My GitHub achievements are displayed directly on my GitHub profile.
 </p>
 
 ## 🐍 Contribution Snake
