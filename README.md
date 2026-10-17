@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:150a30,100:5b21d1&height=180&section=header&text=Rafay%20Ali%20Khan&fontSize=45&fontColor=ff4fd8&fontFamily=Rampart%20One&animation=twinkling&fontAlignY=35&desc=C%2B%2B%20Developer%20%7C%20Embedded%20C%2B%2B%20%7C%20Flutter%20Developer&descAlignY=55&descSize=18" />
-  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:150a30,100:5b21d1&height=180&section=header&text=Rafay%20Ali%20Khan&fontSize=45&fontColor=ff4fd8&fontFamily=Rampart%20One&animation=twinkling&fontAlignY=35&desc=C%2B%2B%20Developer%20%7C%20Embedded%20C%2B%2B%20%7C%20Flutter%20Developer&descAlignY=55&descSize=18" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:150a30,100:5b21d1&height=180&section=header&text=Rafay%20Ali%20Khan&fontSize=45&fontColor=ff4fd8&fontFamily=Rampart%20One&animation=twinkling&fontAlignY=35&desc=C%2B%2B%20Developer%20%7C%20Electronics%20Engineer%20%7C%20IoT%20Builder&descAlignY=55&descSize=18" />
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:150a30,100:5b21d1&height=180&section=header&text=Rafay%20Ali%20Khan&fontSize=45&fontColor=ff4fd8&fontFamily=Rampart%20One&animation=twinkling&fontAlignY=35&desc=C%2B%2B%20Developer%20%7C%20Electronics%20Engineer%20%7C%20IoT%20Builder&descAlignY=55&descSize=18" />
 </picture>
 
 <p align="center">
@@ -15,8 +15,8 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Built **[Air Quality Monitoring System (ESP32 + Flutter + Firebase)](https://github.com/hhitmmann/Air-Quality-Monitoring-System-AQMS-Project)** — my Final-Year Capstone (Distinction)
-- 🌱 Currently learning **Modern C++ (C++17/20) and the basics of ML for sensor data**
+- 🔭 Currently working on **[Air Quality Monitoring System (ESP32 + Flutter + Firebase)](https://github.com/hhitmmann/Air-Quality-Monitoring-System-AQMS-Project)**
+- 🌱 Currently learning **Modern C++ (C++17/20), Data Structures & Algorithms, and the basics of ML for sensor data**
 - 👯 Looking to collaborate on **IoT & embedded systems projects**, especially environmental monitoring, industrial automation, and predictive analytics
 - 🤝 Looking for help with **applying machine learning to real-time sensor data** for AQMS air-quality prediction
 - 👨‍💻 All projects: **[GitHub](https://github.com/hhitmmann)**
