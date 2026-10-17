@@ -15,7 +15,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **[Air Quality Monitoring System (ESP32 + Flutter + Firebase)](https://github.com/hhitmmann/Air-Quality-Monitoring-System-AQMS-Project)**
+- 🔭 Built the entire software stack of **[Air Quality Monitoring System (ESP32 + Flutter + Firebase)](https://github.com/hhitmmann/Air-Quality-Monitoring-System-AQMS-Project)** — my final-year capstone at NED University, awarded Distinction
+- 💼 Open to **C++, Embedded C++ and Flutter** roles, including paid internships — based in Sharjah, U.A.E., available immediately (remote or on-site)
 - 🌱 Currently learning **Modern C++ (C++17/20), Data Structures & Algorithms, and the basics of ML for sensor data**
 - 👯 Looking to collaborate on **IoT & embedded systems projects**, especially environmental monitoring, industrial automation, and predictive analytics
 - 🤝 Looking for help with **applying machine learning to real-time sensor data** for AQMS air-quality prediction
@@ -35,8 +36,14 @@
 
 <p align="center">
   <b>ESP32 + Flutter + Firebase</b><br>
-  Real-time environmental monitoring with a focus on air-quality data and future predictive analytics.
+  Real-time environmental monitoring with a focus on air-quality data and future predictive analytics.<br>
+  <sub>Final-Year Capstone at NED University (Distinction) · I built the entire software stack: ESP32 C++ firmware, Firebase cloud layer and Flutter app</sub>
 </p>
+
+### 🗂️ Other Projects
+
+- 📚 **Library Management System** — C++ console library system (book inventory, members, loans) using inheritance, polymorphism and encapsulation, with file I/O persistence · Feb 2024
+- 📈 **Sensor Data Analytics Tool** — Python tool that parses, cleans and aggregates historical Firebase sensor JSON into mean/min/max summaries per parameter · Mar 2026
 
 ## 📊 GitHub Overview
 
