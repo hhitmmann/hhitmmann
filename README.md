@@ -66,11 +66,19 @@
 ## 🧰 Main Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,dart,flutter,firebase,arduino,android,matlab,unreal" alt="C++, Python, Dart, Flutter, Firebase, Arduino, Android, MATLAB and Unreal Engine" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,dart,flutter,firebase,arduino,androidstudio,matlab,unreal" alt="C++, Python, Dart, Flutter, Firebase, Arduino, Android Studio, MATLAB and Unreal Engine" />
 </p>
 
 <p align="center">
-  <b>C++</b> • <b>Embedded Systems</b> • <b>ESP32</b> • <b>Arduino</b> • <b>Flutter</b> • <b>Dart</b> • <b>Firebase</b> • <b>Python</b> • <b>IoT</b>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/🔧%20Embedded%20Systems-30363d?style=flat-square" alt="Embedded Systems" />
+  <img src="https://img.shields.io/badge/🌐%20IoT-30363d?style=flat-square" alt="IoT" />
 </p>
 
 ## 📊 GitHub Overview
