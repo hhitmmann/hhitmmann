@@ -17,7 +17,7 @@
 
 - 🔭 Built the entire software stack of **[Air Quality Monitoring System (ESP32 + Flutter + Firebase)](https://github.com/hhitmmann/Air-Quality-Monitoring-System-AQMS-Project)** — my final-year capstone at NED University, awarded Distinction
 - 💼 Open to **C++, Embedded C++ and Flutter** roles, including paid internships — based in Sharjah, U.A.E., available immediately (remote or on-site)
-- 🌱 Currently learning **Modern C++ (C++17/20), Data Structures & Algorithms, and the basics of ML for sensor data**
+- 🌱 Currently learning **Modern C++ (C++17/20), Data Structures & Algorithms, and the basics of ML for sensor data** — practising C++ in **[NumLab](https://github.com/hhitmmann/NumLab-The-Number-Toolkit)**, a console number toolkit
 - 👯 Looking to collaborate on **IoT & embedded systems projects**, especially environmental monitoring, industrial automation, and predictive analytics
 - 🤝 Looking for help with **applying machine learning to real-time sensor data** for AQMS air-quality prediction
 - 👨‍💻 All projects: **[GitHub](https://github.com/hhitmmann)**
@@ -26,7 +26,7 @@
 - 📄 LinkedIn: **[rafayalikhangg](https://www.linkedin.com/in/rafayalikhangg)**
 - ⚡ Fun fact: **🎮 Big into skill-heavy games — Half-Life, God of War (I to Ragnarök), Ghostrunner 1 & 2, Dark Souls/Elden Ring, Sekiro, Black Myth: Wukong, NFS Heat, Batman Arkham, and Tekken 8.**
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 <p align="center">
   <a href="https://github.com/hhitmmann/Air-Quality-Monitoring-System-AQMS-Project">
@@ -40,10 +40,38 @@
   <sub>Final-Year Capstone at NED University (Distinction) · I built the entire software stack: ESP32 C++ firmware, Firebase cloud layer and Flutter app</sub>
 </p>
 
+<br>
+
+<p align="center">
+  <a href="https://github.com/hhitmmann/NumLab-The-Number-Toolkit">
+    <img src="https://img.shields.io/badge/🧮%20NumLab-The%20Number%20Toolkit-7AA2F7?style=for-the-badge&labelColor=150a30" alt="NumLab – The Number Toolkit" />
+  </a>
+</p>
+
+<p align="center">
+  <b>C++20 · CMake · MIT License</b><br>
+  A console toolkit for working with numbers. The calculator works today (arithmetic, powers, logarithms, factorials and more); converters and precision labs are on the roadmap.<br>
+  <sub>Built to practise modern C++: code split into headers and sources, a CMake build and a GitHub Actions workflow</sub>
+</p>
+
+<p align="center">
+  <sub>Also on my profile: the <a href="https://github.com/hhitmmann/AQMS-ESP32-Firmware">AQMS ESP32 firmware</a>, the capstone's C++ (Arduino framework) firmware as its own repository</sub>
+</p>
+
 ### 🗂️ Other Projects
 
 - 📚 **Library Management System** — C++ console library system (book inventory, members, loans) using inheritance, polymorphism and encapsulation, with file I/O persistence · Feb 2024
 - 📈 **Sensor Data Analytics Tool** — Python tool that parses, cleans and aggregates historical Firebase sensor JSON into mean/min/max summaries per parameter · Mar 2026
+
+## 🧰 Main Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,dart,flutter,firebase,arduino,android,matlab,unreal" alt="C++, Python, Dart, Flutter, Firebase, Arduino, Android, MATLAB and Unreal Engine" />
+</p>
+
+<p align="center">
+  <b>C++</b> • <b>Embedded Systems</b> • <b>ESP32</b> • <b>Arduino</b> • <b>Flutter</b> • <b>Dart</b> • <b>Firebase</b> • <b>Python</b> • <b>IoT</b>
+</p>
 
 ## 📊 GitHub Overview
 
@@ -62,16 +90,6 @@
   <a href="https://github.com/hhitmmann?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View%20All-7AA2F7?style=for-the-badge&logo=github" alt="View repositories" />
   </a>
-</p>
-
-### 🧰 Main Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,dart,flutter,firebase,arduino,android,matlab,unreal" alt="C++, Python, Dart, Flutter, Firebase, Arduino, Android, MATLAB and Unreal Engine" />
-</p>
-
-<p align="center">
-  <b>C++</b> • <b>Embedded Systems</b> • <b>ESP32</b> • <b>Arduino</b> • <b>Flutter</b> • <b>Dart</b> • <b>Firebase</b> • <b>Python</b> • <b>IoT</b>
 </p>
 
 ## 🔥 Contribution Streak
@@ -130,38 +148,6 @@
   </a>
   <a href="https://steamcommunity.com/profiles/76561199015683613/">
     <img src="https://cdn.simpleicons.org/steam/000000/ffffff" alt="Steam" height="30" width="40" />
-  </a>
-</p>
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <a href="https://developer.android.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
-  </a>
-  <a href="https://www.arduino.cc/">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://dart.dev">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
-  </a>
-  <a href="https://firebase.google.com/">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
-  </a>
-  <a href="https://flutter.dev">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
-  </a>
-  <a href="https://www.mathworks.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://www.unrealengine.com/">
-    <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40" />
   </a>
 </p>
 
